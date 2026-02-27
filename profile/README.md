@@ -1,1 +1,7 @@
-<p align="center"><a href="https://stouffer-labs.github.io"><strong>stouffer-labs.github.io →</strong></a></p>
+#### Projects
+
+| | Project | Description |
+|---|---------|-------------|
+| <picture><source media="(prefers-color-scheme: dark)" srcset="https://stouffer-labs.github.io/cypress-logo-light.svg" /><img src="https://stouffer-labs.github.io/cypress-logo-dark.svg" width="16" height="32" /></picture> | [**cypress**](https://github.com/stouffer-labs/cypress) | Local semantic navigation and knowledge index for project workspaces |
+
+[stouffer-labs.github.io](https://stouffer-labs.github.io)
